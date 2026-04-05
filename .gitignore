@@ -1,0 +1,4 @@
+examples/.vs
+examples/example_win32_directx11/Debug
+examples/example_win32_directx11/Release
+examples/example_win32_directx11/imgui.ini
